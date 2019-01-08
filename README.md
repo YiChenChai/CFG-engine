@@ -6,7 +6,7 @@ Disclaimer: This was written as a practice and should not be used in any serious
 
 ## Getting Started
 
-g++ CFG.cpp <yourfile> -o <yourbinary>
+g++ CFG.cpp yourfile.cpp -o yourbinary
 
 ### Prerequisites
 
