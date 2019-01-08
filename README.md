@@ -10,7 +10,7 @@ g++ CFG.cpp yourfile.cpp -o yourbinary
 
 ### Prerequisites
 
-No additional dependencies other that what C++ has to offer. A tool to render graphviz is needed to show the syntax tree.
+No additional dependencies other that what C++ has to offer. A tool to render graphviz is needed to show the parse tree.
 
 
 ## Authors
